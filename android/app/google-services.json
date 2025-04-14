@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359416957736",
+    "project_id": "firstfire-e0cd2",
+    "storage_bucket": "firstfire-e0cd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359416957736:android:a30030ce0646641a221e1d",
+        "android_client_info": {
+          "package_name": "com.firstfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_RKK6qVMbQENbEP4txtjYL8rrLZgbDFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
